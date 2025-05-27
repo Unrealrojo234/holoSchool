@@ -33,8 +33,10 @@
 	}
 	.results-main {
 		max-width: 800px;
-		margin: 4rem auto;
-		padding: 0 2rem;
+		margin-bottom: 4rem;
+		display: block;
+		margin: auto;
+		padding: 0 0.5rem;
 		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
 
@@ -62,7 +64,7 @@
 
 	.results-card {
 		display: flex;
-		padding: 2rem;
+		padding: 0.5rem;
 		gap: 2rem;
 		align-items: center;
 		background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);

@@ -47,7 +47,9 @@
 
 	@media (max-width: 768px) {
 		.map-section {
-			padding: 0 1.5rem;
+			width: 100%;
+			margin: 0;
+			padding: 0%;
 		}
 
 		.map-container iframe {
