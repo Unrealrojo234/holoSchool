@@ -21,16 +21,13 @@
 
 <style>
 	.map-section {
-		margin: 3rem auto;
 		max-width: 1000px;
-		padding: 0 1rem;
 	}
 
 	.map-container {
 		border-radius: 10px;
 		overflow: hidden;
-		box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-		margin: 1.5rem 0;
+		box-shadow: 0 5px 15px rgba(250, 250, 250, 0.1);
 	}
 
 	.map-directions {
