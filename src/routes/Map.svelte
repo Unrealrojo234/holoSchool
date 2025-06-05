@@ -14,7 +14,7 @@
 		></iframe>
 	</div>
 	<p class="map-directions">
-		<i class="fa-solid fa-car" aria-hidden="true"></i> 5km from Kisumu CBD along Kisumu-Kisii Highway
+		<i class="fa-solid fa-car" aria-hidden="true"></i> 25km from Kisumu CBD along Kisumu-Kisii Highway
 	</p>
 </section>
 
